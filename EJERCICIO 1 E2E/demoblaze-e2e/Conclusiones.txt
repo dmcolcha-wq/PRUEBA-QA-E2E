@@ -1,0 +1,7 @@
+	Conclusiones Prueba E2E Compra Demoblaze
+
+- Se automatizó con éxito el flujo completo de compra en demoblaze.com.
+- Se validó que se agreguen productos al carrito, se complete el formulario y se finalice la compra.
+- La prueba confirmó la visualización del mensaje de compra exitosa.
+- Se recomienda reemplazar los Thread.sleep por esperas explícitas para mejorar la estabilidad.
+- La suite puede extenderse para múltiples productos y validaciones adicionales.

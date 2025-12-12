@@ -1,0 +1,10 @@
+	Conclusiones de Pruebas API Demoblaze Ejercicio 2
+
+ Signup:
+  - Se logró crear un usuario nuevo correctamente.
+  - Intentar crear un usuario existente devuelve el error esperado.
+Login:
+  - El login con credenciales correctas funciona correctamente.
+  - El login con password incorrecto devuelve error 401.
+- Los endpoints cumplen con la validación básica de creación de usuarios y autenticación.
+- Se recomienda agregar más pruebas de seguridad y validación de campos.
